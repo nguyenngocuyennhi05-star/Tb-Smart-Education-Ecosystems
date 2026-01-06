@@ -1,0 +1,8 @@
+{
+  "name": "Tb Smart Education Ecosystem",
+  "description": "A high-tech educational platform that automates school management, personalizes learning paths with AI, and provides data-driven insights for teachers and students.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
